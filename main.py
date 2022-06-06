@@ -4,8 +4,8 @@
 
 api_id = 6 # int
 api_hash = "eb06d4abfb49dc3eeb1aeb98ae0f581e" # string
-bot_token = "5038667786:AAH6hcBavHCBuqWXNPawL0jjOwcAigDhGEM" # string
-admins = "1872074304 862271564" # string
+bot_token = "5433648888:AAFYD1VZvo0jNl2wdPiS8XjxVQ3r_yj9b2k" # string
+admins = "1872074304" # string
 
 ####################################################################
 ######################### IMPORTS ##################################
